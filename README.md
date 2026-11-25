@@ -1,5 +1,8 @@
 # AML Leukaemic Stem Cell Transcriptomics & CQN-DESeq2 Reanalysis (`GSE74246`)
 
+[![CI](https://github.com/yijiulu/rna-seq-aml-lsc/actions/workflows/ci.yml/badge.svg)](https://github.com/yijiulu/rna-seq-aml-lsc/actions/workflows/ci.yml)
+[![Licence: MIT](https://img.shields.io/badge/Licence-MIT-blue.svg)](LICENSE)
+
 Reproducible statistical transcriptomics pipeline reanalysing sorted normal human haematopoietic populations and acute myeloid leukaemia (AML) pre-leukaemic HSC (`pHSC`), leukaemic stem cell (`LSC`), and blast (`Blast`) fractions from **GSE74246** (Corces *et al.*, 2016, *Nature Genetics*, PMID `27526324`).
 
 ## Scientific Question & Statistical Design
