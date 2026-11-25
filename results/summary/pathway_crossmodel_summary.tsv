@@ -1,0 +1,5 @@
+pair	n_sets	rho_NES	n_concordant	n_discordant
+M1 vs LMPP priming	3677	0.425972351463868	19	0
+M1 vs GMP commitment	3667	0.476792749218185	38	0
+M2 vs LMPP->GMP	3677	0.447138710028922	7	0
+M2 vs GMP->Mono	3667	0.336980667148237	27	4

@@ -1,0 +1,23 @@
+name: aml-cqn-rnaseq
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pandas>=2.2
+  - requests>=2.31
+  - r-base>=4.4
+  - r-data.table>=1.15
+  - r-ggplot2>=3.5
+  - r-patchwork>=1.2
+  - r-matrixstats>=1.3
+  - r-rcolorbrewer>=1.1
+  - r-ggrepel>=0.9
+  - r-ggforce>=0.4
+  - bioconductor-deseq2>=1.44
+  - bioconductor-cqn>=1.50
+  - bioconductor-apeglm>=1.26
+  - bioconductor-fgsea>=1.30
+  - bioconductor-org.hs.eg.db>=3.19
+  - bioconductor-go.db>=3.19
+  - bioconductor-annotationdbi>=1.66

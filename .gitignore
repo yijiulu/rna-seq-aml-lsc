@@ -1,0 +1,23 @@
+# Python & R session artefacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Downloaded public data & regenerable large intermediate outputs
+data/
+results/qc/
+results/de/
+*.rds
+*.gz
+*.part
